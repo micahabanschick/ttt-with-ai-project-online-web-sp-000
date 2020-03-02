@@ -57,10 +57,10 @@ class Game
     if self.over? 
       if self.won? 
         puts "Congratulations #{self.winner}!"
-        #self.restart 
+        self.restart 
       else 
         puts "Cat's Game!"
-        #self.restart 
+        self.restart 
       end 
     end 
   end 
