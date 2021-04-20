@@ -1,6 +1,6 @@
-  - [ ] All tests pass
-  - [ ] 0 player mode works
-  - [ ] 1 player mode works
-  - [ ] 2 player mode works
-  - [ ] Game is playable via CLI
+  - [yes] All tests pass
+  - [yes] 0 player mode works
+  - [yes] 1 player mode works
+  - [yes] 2 player mode works
+  - [yes] Game is playable via CLI
   - [ ] AI is able to play with some strategy
